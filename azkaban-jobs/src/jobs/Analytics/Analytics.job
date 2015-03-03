@@ -1,0 +1,4 @@
+type=hadoopJava
+classpath=./lib/*
+job.class=ezbatch.amino.api.EzFrameworkDriver
+main.args=-d /ezbatch/amino/config -c ./NumberJob.xml

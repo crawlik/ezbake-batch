@@ -15,8 +15,8 @@
     <properties>
         <java.version>1.7</java.version>
         <amino.version>2.3.0</amino.version>
-        <hadoop.version>2.0.0-cdh4.5.0</hadoop.version>
-        <hadoop.mr1.version>2.0.0-mr1-cdh4.5.0</hadoop.mr1.version>
+        <hadoop.version>2.6.0-cdh5.4.0</hadoop.version>
+        <hadoop.mr1.version>2.6.0-mr1-cdh5.4.0</hadoop.mr1.version>
     </properties>
 
     <modules>
